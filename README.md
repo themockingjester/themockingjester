@@ -8,5 +8,5 @@
 - 📫 How to reach me: ...   yashmathur123123@gmail.com
 - 😄 Pronouns: ...   Mr,He
 - ⚡ Love to eat: ...  Pizza,Burger
-- ✨ Want to explore: ... This World
+- ✨ Want to explore: ... Digital World
 
