@@ -1,5 +1,4 @@
 ### Hi there 👋 i am Yash
-
 - 🔭 I’m currently working on ... Javascript and Node
 - 🌱 I’m currently learning ...   Node
 - 👯 I’m looking to collaborate on ...   Open Source Projects
