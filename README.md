@@ -7,5 +7,5 @@
 - 😄 Pronouns: ...   Mr,He
 - ⚡ Love to eat: ...  Pizza,Burger
 - ✨ Want to explore: ... Digital World
-- :wink: Checkout my project videos ... https://drive.google.com/drive/folders/1rbbw6HfVZE2IavKdTdc1eLprZm24S9Ws?usp=sharing
+- :wink: Checkout my project videos (developed during my college days) ... https://drive.google.com/drive/folders/1rbbw6HfVZE2IavKdTdc1eLprZm24S9Ws?usp=sharing
 
