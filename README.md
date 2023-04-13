@@ -1,6 +1,6 @@
 ### Hi there 👋 i am Yash
 - 🔭 I’m currently working on ... Javascript and Node
-- 🌱 I’m currently learning ...   Node
+- 🌱 I’m currently learning ...   Go Lang
 - 👯 I’m looking to collaborate on ...   Open Source Projects
 - 🤔 I’m looking for help with ...  Personal Projects
 - 📫 How to reach me: ...   yashmathur123123@gmail.com
